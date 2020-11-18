@@ -33,7 +33,9 @@ Para windows: [descargar el instalador](https://www.python.org/) y asegurarse de
 
 1.3. Iniciar el entorno virtual
 
-```virtualenv venv```
+Desde powershell: ```.\venv\scripts\activate```
+
+Desde git bash: ```source .\venv\scripts\activate```
 
 #### 2. Instalar librerías para trabajar
 
